@@ -14,6 +14,20 @@ four dashboards and talks to Home Assistant via the native API: a battery
 status page, an analog station clock, the current weather, and the salt
 level of a water softener. All pages rotate automatically every 10 seconds.
 
+### Examples
+
+#### Black
+
+| Clock | Weather | Accu | Saltlevel |
+|---|---|---|---|
+| <img src="images/black/clock.jpg" alt="Black clock" width="180"> | <img src="images/black/weather.jpg" alt="Black weather" width="180"> | <img src="images/black/battery.jpg" alt="Black accu" width="180"> | <img src="images/black/saltlevel.jpg" alt="Black saltlevel" width="180"> |
+
+#### White
+
+| Clock | Weather | Accu | Saltlevel |
+|---|---|---|---|
+| <img src="images/white/clock.jpg" alt="White clock" width="180"> | <img src="images/white/weather.jpg" alt="White weather" width="180"> | <img src="images/white/battery.jpg" alt="White accu" width="180"> | <img src="images/white/saltlevel.jpg" alt="White saltlevel" width="180"> |
+
 ### Screens
 
 | Page | Content |
