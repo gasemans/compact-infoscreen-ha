@@ -48,6 +48,7 @@ The color thresholds for all percentage gauges are: **red** below 5%,
    esphome run compact-infoscreen-ha.yaml
    ```
    (the first time over USB; after that OTA/wifi works too)
+5. go to home assistant, devices and services and check if you need to add the ESP to home assistant. (info would not be displayed if you forget this part)
 
 ### Which values do you need to change?
 
@@ -197,6 +198,7 @@ De kleurdrempels voor alle percentage-gauges zijn: **rood** onder 5%,
    esphome run compact-infoscreen-ha.yaml
    ```
    (de eerste keer via USB; daarna kan dat ook via OTA/wifi)
+5. ga naar home assistant, Apparaten en diensten en controleer of je de ESP nog moet toevoegen aan Home Assistant. (info wordt niet geladen en getoond als je dit vergeet te doen (ERVERING!!!))
 
 ### Welke waardes moet je aanpassen?
 
